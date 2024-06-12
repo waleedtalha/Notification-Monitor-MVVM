@@ -1,0 +1,195 @@
+<resources>
+
+
+<!--    <string name="app_name">Alerta Pix</string>-->
+<!--    <string name="monitor_app">Alerta Pix</string>-->
+<!--    <string name="welcome_to_monitor_notification">Bem vindo ao \n Alerta Pix</string>-->
+<!--    <string name="monitoring_your_apps">Monitoramento \n Seus aplicativos</string>-->
+<!--    <string name="click_start_to_monitoring_your_app_s_notifications">Monitore as notificações de Pix Recebido \n e encaminhar de forma automática para até 3 números no WhatsApp</string>-->
+<!--    <string name="monitoring_apps_click_end_to_stop">Você está monitorado seus aplicativos, \nclique em Pausar Monitoramento para encerrar o processo.</string>-->
+<!--    <string name="start_monitoring">Iniciar Monitoramento</string>-->
+<!--    <string name="make_payment">Efetuar Pagamento</string>-->
+<!--    <string name="stop_monitoring">Pausar Monitoramento</string>-->
+<!--    <string name="save_setting">Salvar Configurações</string>-->
+<!--    <string name="login">Login</string>-->
+<!--    <string name="add">Adicionar</string>-->
+<!--    <string name="add_number">+ Adicionar número de WhatsApp</string>-->
+<!--    <string name="register">Registro</string>-->
+<!--    <string name="payment">Pagamento</string>-->
+<!--    <string name="settings">Configurações</string>-->
+<!--    <string name="email">Email</string>-->
+<!--    <string name="password">Senha</string>-->
+<!--    <string name="full_name">Nome Completo</string>-->
+<!--    <string name="tax_id">CPF</string>-->
+<!--    <string name="choose_apps">Apps Monitorados</string>-->
+<!--    <string name="dollar_sign">R$</string>-->
+<!--    <string name="forgot_password">Esqueceu a senha?</string>-->
+<!--    <string name="add_whatsapp_number">+ Adicionar Número</string>-->
+<!--    <string name="don_t_have_an_account">Não possui uma conta? </string>-->
+<!--    <string name="read_and_agree">Eu li e concordo com os</string>-->
+<!--    <string name="privacy_and_policy">\u00A0Termos e Condições de uso</string>-->
+<!--    <string name="register_here">\u00A0Registre-se</string>-->
+<!--    <string name="enter_full_name">Por favor, informe o nome completo</string>-->
+<!--    <string name="enter_number">Por favor, informe um número</string>-->
+<!--    <string name="invalid_number">Por favor, informe um número valido</string>-->
+<!--    <string name="enter_tax_id">Por favor, informe o seu CPF</string>-->
+<!--    <string name="internet_not_available">A Internet não está disponível</string>-->
+<!--    <string name="number_registered">Número adicionado</string>-->
+<!--    <string name="number_cancelled">Número Cancelado</string>-->
+<!--    <string name="stop_monitoring_to_logout">Para o monitoramento primeiro para fazer o logout</string>-->
+<!--    <string name="app_selected">O aplicativo %1$s foi selecionado</string>-->
+<!--    <string name="already_logged_in">Você já está logado, clique no botão abaixo para sair.</string>-->
+<!--    <string name="logout">Logout</string>-->
+<!--    <string name="incomplete_tax_id">Informe um CPF Válido</string>-->
+<!--    <string name="invalid_cpf">O CPF é inválido.</string>-->
+<!--    <string name="enter_email">Por favor, informe o seu e-mail</string>-->
+<!--    <string name="invalid_email">Seu e-mail está invalido</string>-->
+<!--    <string name="enter_password">Informe a sua senha</string>-->
+<!--    <string name="password_too_short">A senha precisa ter no minimo 6 digitos</string>-->
+<!--    <string name="accept_privacy_policy">Por favor, aceite os termos e condições de uso</string>-->
+<!--    <string name="already_registered">O usuário já está registrado</string>-->
+<!--    <string name="something_went_wrong">Algo deu errado</string>-->
+<!--    <string name="unauthorized_user">O usuário não está autorizado</string>-->
+<!--    <string name="copied">Copiado</string>-->
+<!--    <string name="incorrect_email_pass">O email ou a senha que você colocou está errado, tente novamente</string>-->
+<!--    <string name="payment_check_text">Para utilizar o aplicativo, é necessário efetuar o pagamento abaixo via PIX. Caso opte por não continuar utilizando o aplicativo após 30 dias, nenhum valor será cobrado.</string>-->
+<!--    <string name="r_9_90">R$9,90</string>-->
+<!--    <string name="per_month">(por mês)</string>-->
+<!--    <string name="pix_copiacola">Pix Copia&amp;Cola</string>-->
+<!--    <string name="copy_label">QR Code</string>-->
+<!--    <string name="active_time">Monitoramento das Notificações</string>-->
+<!--    <string name="always_active_24">Sempre Ativo</string>-->
+<!--    <string name="payment_completed">Pagamento \n Recebido</string>-->
+<!--    <string name="payment_cancelled">Pagamento \n Cancelado</string>-->
+<!--    <string name="transaction_id">ID da Transação</string>-->
+<!--    <string name="logged_in">Logado com sucesso.</string>-->
+<!--    <string name="logged_out">Você efetuou o logout</string>-->
+<!--    <string name="access_permission_from_settings">Conceda permissão ao Alerta Pix para ler as notificação nas configurações.</string>-->
+<!--    <string name="enable_permission">Permitir acesso as notificação para começar a monitorar</string>-->
+<!--    <string name="disable_permission">Desabilite o acesso as notificação para interromper o monitoramento</string>-->
+<!--    <string name="_12_05_24_08_45">12/05/24, 08:45</string>-->
+<!--    <string name="configuration">Configurações</string>-->
+<!--    <string name="back_to_home">Ir para a Página Inicial</string>-->
+<!--    <string name="select_one_app">Você tem que selecionar no minimo um app para ter as notificações monitoradas</string>-->
+<!--    <string name="select_one_app_settings">Selecione pelo menos um aplicativo nas configurações</string>-->
+<!--    <string name="add_one_number">Adicione pelo menos um número de WhatsApp nas configurações</string>-->
+<!--    <string name="subscription_not_active">Sua assinatura não está ativa, faça login no aplicativo</string>-->
+<!--    <string name="make_payment_to_monitor">Efetuar Pagamento</string>-->
+<!--    <string name="signIn_before_starting">Faça login antes de adicionar o número</string>-->
+<!--    <string name="your_payment_has_been_cancelled_due_to_payment_method">Seu pagamento foi \n cancelado, tente novamente</string>-->
+<!--    <string name="whatsapp_number">Número do WhatsApp</string>-->
+<!--    <string name="alarm_permission">Permitir permissão de alarme</string>-->
+<!--    <string name="only_during_specific_time">Personalizado</string>-->
+<!--    <string name="apps_monitoring">Apps</string>-->
+<!--    <string name="renewal_reminder">Lembrete de renovação de assinatura</string>-->
+<!--    <string name="apps_monitoring_desc">Notificações de PIX recebidas estão sendo monitoradas pelo Alerta Pix</string>-->
+<!--    <string name="renewal_reminder_desc">Sua assinatura expira em breve. Renove seu plano para garantir que o aplicativo continue funcionando</string>-->
+<!--    <string name="plan_expiration_days">Seu plano expira em %1$s dias</string>-->
+<!--    <string name="plan_expired">Seu plano expirou, efetue o pagamento para que o app volte a funcionar</string>-->
+<!--    <string name="to">até</string>-->
+<!--    <string-array name="days_of_week">-->
+<!--        <item>D</item>-->
+<!--        <item>S</item>-->
+<!--        <item>T</item>-->
+<!--        <item>Q</item>-->
+<!--        <item>Q</item>-->
+<!--        <item>S</item>-->
+<!--        <item>S</item>-->
+<!--    </string-array>-->
+
+
+
+    <string name="app_name">Notifica Pix</string>
+    <string name="monitor_app">Monitor App</string>
+    <string name="welcome_to_monitor_notification">Welcome to \n Monitor Notification</string>
+    <string name="monitoring_your_apps">Monitoring \n Your Apps</string>
+    <string name="click_start_to_monitoring_your_app_s_notifications">Click start to monitoring \n your app’s notifications.</string>
+    <string name="monitoring_apps_click_end_to_stop">You’ve been monitoring your apps, \n click stop to end the process.</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="save_setting">Save setting</string>
+    <string name="login">Login</string>
+    <string name="add">Add</string>
+    <string name="add_number">Add Whatsapp Number</string>
+    <string name="register">Register</string>
+    <string name="payment">payment</string>
+    <string name="settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="tax_id">Tax ID</string>
+    <string name="choose_apps">Choose Apps</string>
+    <string name="dollar_sign">$</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="add_whatsapp_number">Add new whatsapp number</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="read_and_agree">I have read and agree</string>
+    <string name="privacy_and_policy">\u00A0Privacy and policy</string>
+    <string name="register_here">\u00A0Register here</string>
+    <string name="enter_full_name">Please enter the full name</string>
+    <string name="enter_number">Please enter the number</string>
+    <string name="invalid_number">Please enter the valid number</string>
+    <string name="enter_tax_id">Please enter tax id</string>
+    <string name="stop_monitoring_to_logout">Stop the monitoring to logout.</string>
+    <string name="app_selected">The application %1$s has been selected and the notifications sent by it are being monitored.</string>
+    <string name="already_logged_in">You are already logged in, Click on below button to logout.</string>
+    <string name="logout">Logout</string>
+    <string name="incomplete_tax_id">Enter complete tax id of 11 digits</string>
+    <string name="enter_email">Please enter your email</string>
+    <string name="invalid_email">Email is not correct</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="password_too_short">Password is too short</string>
+    <string name="accept_privacy_policy">Please accept privacy policy</string>
+    <string name="already_registered">User is already registered</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="unauthorized_user">User is Unauthorized</string>
+    <string name="copied">Copied</string>
+    <string name="incorrect_email_pass">The email or password you entered is incorrect.</string>
+    <string name="payment_check_text">To use the application, you need to make the payment below via PIX. If you choose not to continue using the application after 30 days, no charges will be applied.</string>
+    <string name="r_9_90">R$9,90</string>
+    <string name="internet_not_available">Internet is not available</string>
+    <string name="number_registered">Number Registered</string>
+    <string name="number_cancelled">Number Cancelled</string>
+    <string name="per_month">(per month)</string>
+    <string name="pix_copiacola">Pix Copia&amp;Cola</string>
+    <string name="copy_label">Qr Code</string>
+    <string name="active_time">Active time</string>
+    <string name="always_active_24">Always active 24</string>
+    <string name="payment_completed">Payment \n Completed</string>
+    <string name="payment_cancelled">Payment \n Cancelled</string>
+    <string name="transaction_id">Transaction Id</string>
+    <string name="logged_in">Logged in</string>
+    <string name="logged_out">Logged out</string>
+    <string name="access_permission_from_settings">Please grant notification permission from the settings.</string>
+    <string name="enable_permission">Allow the notification to start monitoring</string>
+    <string name="disable_permission">Deny the notification to stop monitoring</string>
+    <string name="_12_05_24_08_45">12/05/24, 08:45</string>
+    <string name="configuration">Configuration</string>
+    <string name="back_to_home">Back to home</string>
+    <string name="invalid_cpf">CPF is invalid</string>
+    <string name="select_one_app">Select at least one app</string>
+    <string name="select_one_app_settings">Select at least one app in settings</string>
+    <string name="add_one_number">Add at least one whatsapp number in settings</string>
+    <string name="subscription_not_active">Your subscription is not active, please login to app</string>
+    <string name="make_payment_to_monitor">Make payment to start monitoring</string>
+    <string name="signIn_before_starting">Sign in before adding number</string>
+    <string name="your_payment_has_been_cancelled_due_to_payment_method">Your payment has been \n cancelled due to payment method</string>
+    <string name="whatsapp_number">Whatsapp Number</string>
+    <string name="alarm_permission">Allow alarm permission</string>
+    <string name="only_during_specific_time">Only during specific time</string>
+    <string name="apps_monitoring">Apps Monitoring</string>
+    <string name="renewal_reminder">Subscription Renewal Reminder</string>
+    <string name="apps_monitoring_desc">Received PIX notifications are being monitored by Alerta Pix</string>
+    <string name="renewal_reminder_desc">Your subscription expires in 3 days, renew to ensure the app works</string>
+    <string name="to">to</string>
+    <string-array name="days_of_week">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </string-array>
+</resources>
